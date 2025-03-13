@@ -1,0 +1,19 @@
+{
+  "name": "flightbackend",
+  "version": "1.0.0",
+  "description": "Backend for flight booking system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx nodemon src/index.js"
+  },
+  "author": "Atul",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "http-status-codes": "^2.3.0",
+    "nodemon": "^3.1.9",
+    "winston": "^3.17.0"
+  }
+}
