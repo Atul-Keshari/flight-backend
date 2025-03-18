@@ -1,4 +1,3 @@
-const { response } = require("express");
 const { AirplaneService } = require("../services");
 const { StatusCodes } = require("http-status-codes");
 
