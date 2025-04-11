@@ -60,5 +60,5 @@ async function getAllFlights(query){
 
 module.exports = {
     createFlight,
-    getAllFlights
+    getAllFlights 
 }
